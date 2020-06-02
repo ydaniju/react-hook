@@ -1,10 +1,10 @@
 import React from "react";
-import ComponentD from "./ComponentD";
+import ComponentE from "./ComponentE";
 
 const ComponentC = () => {
   return (
     <div>
-      <ComponentD />
+      <ComponentE />
     </div>
   );
 };
